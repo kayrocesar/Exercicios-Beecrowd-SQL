@@ -7,7 +7,7 @@
 
 -- OBS: Você não deve mostrar cidades repetidas.
 
--- Para isso exiba somente o maior e o menor preço da tabela produtos.
+
 
 CREATE DATABASE CidadesemOrdemAlfabetica;
 
