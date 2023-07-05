@@ -1,4 +1,4 @@
-# Exercicios-Beecrowd-SQL-
+# Exercicios-Beecrowd-SQL
 
 ## Exercícios resolvidos do beecrowd em relação ao SQL
 
